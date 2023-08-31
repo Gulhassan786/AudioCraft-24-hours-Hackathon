@@ -12,14 +12,3 @@ AudioCraft is a generative AI tool for audio and music developed by Meta AI. It 
    <li><b> EnCodec: </b>This model encodes and decodes audio signals. This is used by MusicGen and AudioGen to convert text descriptions into audio signals and vice versa.</li>
 </ul>
 <hr>
-<h1>Our Work</h1>
- 
-<h3>What's problem we are trying to solve here is</h3> 
-
-
-<h3>Our Proposed Solution</h3> 
-
-
-<h3>Proposed Metgodology</h3>
-
-<h3>Model Flow</h3>
